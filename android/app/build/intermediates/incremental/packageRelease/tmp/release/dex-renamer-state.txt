@@ -1,0 +1,4 @@
+#Sat Nov 14 09:37:45 WAT 2020
+base.0=C\:\\Users\\Anthropocology\\Documents\\software-and-coding\\projects\\AwesomeProject\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,9 @@
+com/awesomeproject/MainApplication.java
+ com.awesomeproject.MainApplication
+ com.awesomeproject.MainApplication$1
+com/awesomeproject/BuildConfig.java
+ com.awesomeproject.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/awesomeproject/MainActivity.java
+ com.awesomeproject.MainActivity
