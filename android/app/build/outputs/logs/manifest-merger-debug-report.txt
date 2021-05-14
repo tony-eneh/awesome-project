@@ -1,13 +1,16 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:1:1-27:12
-INJECTED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:1:1-27:12
-INJECTED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:1:1-27:12
-INJECTED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:1:1-27:12
-MERGED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:1:1-27:12
+ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:1:1-41:12
+INJECTED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:1:1-41:12
+INJECTED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:1:1-41:12
+INJECTED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:1:1-41:12
+MERGED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:1:1-41:12
 MERGED from [com.facebook.flipper:flipper:0.54.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\d202ba8bc8961450333bf473e6298c94\jetified-flipper-0.54.0\AndroidManifest.xml:8:1-18:12
 MERGED from [com.facebook.flipper:flipper-network-plugin:0.54.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\4702e8cbe5c66b644ed2f56d7cf1ab9a\jetified-flipper-network-plugin-0.54.0\AndroidManifest.xml:8:1-15:12
 MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\7c077107cba6636db2ecf683d1903857\jetified-flipper-fresco-plugin-0.54.0\AndroidManifest.xml:8:1-15:12
+MERGED from [:react-native-gesture-handler] C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-screens] C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.react:react-native:0.63.3] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\c803ec0dd4d18c39e15a4a1a0faba9f7\jetified-react-native-0.63.3\AndroidManifest.xml:2:1-13:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\20725fa20214e86eb8fa55394d5d409e\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [org.webkit:android-jsc:r245459] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\7909fc1527cbbfa5280fa34f69372979\jetified-android-jsc-r245459\AndroidManifest.xml:2:1-11:12
@@ -26,62 +29,89 @@ MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] C:\Users\Anthropoc
 MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\cc738574fbba9fa8d4a43c86ef79ffb3\jetified-imagepipeline-base-2.2.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:soloader:2.2.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\2e384b8d1aa835bc6b6747445bc4e658\jetified-soloader-2.2.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\3ff5f325f0418d9356e2ddf4c121b33c\jetified-soloader-0.9.0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\c9350c4470b6f4895016aaf418fed985\material-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\780dca39713ff2fcf4eadcaf494ac982\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\82e63553b4b022cfff1711ae9819aad4\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\89148e3dbb2482b98d2c6649d887f30f\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\2c4abb3c9f84da22a9da11e175a85c23\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\bfe66e5c1e3890ed194fe4c90f780fb5\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\1fa276bd61947c3e74ed195b3ad0a13b\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\e3a2e867d331253c3dea79a8410594da\fragment-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\43d28a6cb6aa3ef105d8e111681e9af4\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\727f4567341fcf59ba6ec2fbb4290436\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\1aafd20561bc3ee9f58c28dfa8215062\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\3a40d00373143d317b2bee08071df362\loader-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.activity:activity:1.0.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\1f30c507ad647a41e33ed33c8e0ba570\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\a8ecbda6ffad5e6f54ae110042f6865e\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\41b8d659a9b5777956384975cf9ebd42\jetified-activity-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\c85e1f195321245fafe1a599b5dddf47\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.customview:customview:1.0.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\da4859f2c8e5d53f282ea268af4c5fee\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\1296f14384128f2399538597cc1f5274\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\a8ecbda6ffad5e6f54ae110042f6865e\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.core:core:1.1.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\73530a2d0c1df4b3085807c82555ce12\core-1.1.0\AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\129d7c6539a600a7346451cc911530ca\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\fa40148eab14a6d2386ba091992d3749\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\2ef7075f73d2e2de44abaa796f0222ce\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\ed731ef0ae48e67de128afa89bfb34a2\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\3e3f3d50d38e11decf1394c1c71b0fc7\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\3e0dd008a853f1a70d3d0f68ab22c9b7\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\f52122426ed85128097908a2e58f6328\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\8b5e123a9c5293fd4e2ed3fcf992930f\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\bf72a15a3ccfe7bc47129422d9cddb0c\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\aaff256ac919a45448a380ca9a0003ca\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\06bc4641de51b04d4df94808d6e05292\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\1b64911e987df0fea019408e241659d7\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\b7f3f626304196e508da96b58da55c51\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\8459cf74267acbf7bf85dca1ef465d1f\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.facebook.fresco:fbcore:2.2.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\93631a34b99ed001e2b0fad5d2f119cc\jetified-fbcore-2.2.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:ui-common:2.2.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\570f8ba84fcb7e14932353951c08cc5e\jetified-ui-common-2.2.0\AndroidManifest.xml:2:1-9:12
 INJECTED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\debug\AndroidManifest.xml:2:1-8:12
 INJECTED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\debug\AndroidManifest.xml:2:1-8:12
 INJECTED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\debug\AndroidManifest.xml:2:1-8:12
 	package
-		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:2:3-31
+		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:1:70-98
 		INJECTED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:2:3-31
+		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:1:70-98
 		INJECTED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\debug\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:1:1-27:12
+		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:1:1-41:12
 		INJECTED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\debug\AndroidManifest.xml
 	xmlns:tools
 		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\debug\AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:1:1-27:12
+		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:1:1-41:12
 		INJECTED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\debug\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:4:5-67
+ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:2:3-64
 MERGED from [com.facebook.flipper:flipper:0.54.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\d202ba8bc8961450333bf473e6298c94\jetified-flipper-0.54.0\AndroidManifest.xml:15:5-67
 MERGED from [com.facebook.flipper:flipper:0.54.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\d202ba8bc8961450333bf473e6298c94\jetified-flipper-0.54.0\AndroidManifest.xml:15:5-67
 	android:name
-		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:4:22-64
+		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:2:20-62
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:3:3-76
+	android:name
+		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:3:20-74
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:4:3-75
+MERGED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:4:3-75
+MERGED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:4:3-75
+	android:name
+		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:4:20-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:5:3-65
+	android:name
+		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:5:20-63
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:6:3-79
+	android:name
+		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:6:20-77
 application
-ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:6:5-25:19
-MERGED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:6:5-25:19
-MERGED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:6:5-25:19
+ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:7:3-40:17
+MERGED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:7:3-40:17
+MERGED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:7:3-40:17
 MERGED from [com.facebook.react:react-native:0.63.3] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\c803ec0dd4d18c39e15a4a1a0faba9f7\jetified-react-native-0.63.3\AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.react:react-native:0.63.3] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\c803ec0dd4d18c39e15a4a1a0faba9f7\jetified-react-native-0.63.3\AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\3ff5f325f0418d9356e2ddf4c121b33c\jetified-soloader-0.9.0\AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\3ff5f325f0418d9356e2ddf4c121b33c\jetified-soloader-0.9.0\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\c9350c4470b6f4895016aaf418fed985\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\c9350c4470b6f4895016aaf418fed985\material-1.1.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.core:core:1.1.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\73530a2d0c1df4b3085807c82555ce12\core-1.1.0\AndroidManifest.xml:24:5-89
 MERGED from [androidx.core:core:1.1.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\73530a2d0c1df4b3085807c82555ce12\core-1.1.0\AndroidManifest.xml:24:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\fa40148eab14a6d2386ba091992d3749\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
@@ -89,55 +119,101 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\An
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\73530a2d0c1df4b3085807c82555ce12\core-1.1.0\AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:8:7-39
-		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:8:7-39
+		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:9:5-37
+		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:9:5-37
 	tools:ignore
 		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\debug\AndroidManifest.xml:7:75-114
 	android:roundIcon
-		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:10:7-52
-		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:10:7-52
+		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:11:5-50
+		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:11:5-50
 	tools:targetApi
 		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\debug\AndroidManifest.xml:7:54-74
 	android:icon
-		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:9:7-41
-		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:9:7-41
+		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:10:5-39
+		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:10:5-39
 	android:allowBackup
-		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:11:7-34
-		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:11:7-34
+		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:12:5-31
+		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:12:5-31
 	android:theme
-		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:12:7-38
-		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:12:7-38
+		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:13:5-36
+		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:13:5-36
 	android:usesCleartextTraffic
 		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\debug\AndroidManifest.xml:7:18-53
 	android:name
-		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:7:7-38
-		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:7:7-38
-activity#com.awesomeproject.MainActivity
-ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:13:7-23:18
+		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:8:5-36
+		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:8:5-36
+activity#com.ahioma.nwaeneh.MainActivity
+ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:15:5-34:16
+	android:screenOrientation
+		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:21:7-43
 	android:label
-		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:15:9-41
+		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:17:7-39
 	android:launchMode
-		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:17:9-40
+		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:19:7-38
 	android:windowSoftInputMode
-		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:18:9-51
+		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:20:7-49
 	android:configChanges
-		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:16:9-86
+		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:18:7-84
+	android:theme
+		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:22:7-52
 	android:name
-		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:14:9-37
+		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:16:7-35
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:19:9-22:25
+ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:24:7-27:23
 action#android.intent.action.MAIN
-ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:20:13-65
+ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:25:9-60
 	android:name
-		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:20:21-62
+		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:25:17-58
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:21:13-73
+ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:26:9-68
 	android:name
-		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:21:23-70
+		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:26:19-66
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:com.ahioma.nwaeneh
+ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:28:7-33:23
+action#android.intent.action.VIEW
+ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:29:9-60
+	android:name
+		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:29:17-58
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:30:9-67
+	android:name
+		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:30:19-65
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:31:9-69
+	android:name
+		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:31:19-67
+data
+ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:32:9-52
+	android:scheme
+		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:32:15-50
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:24:7-84
+ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:35:5-81
 	android:name
-		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:24:17-81
+		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:35:15-79
+meta-data#expo.modules.updates.ENABLED
+ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:36:5-82
+	android:value
+		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:36:60-80
+	android:name
+		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:36:16-59
+meta-data#expo.modules.updates.EXPO_UPDATES_CHECK_ON_LAUNCH
+ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:37:5-105
+	android:value
+		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:37:81-103
+	android:name
+		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:37:16-80
+meta-data#expo.modules.updates.EXPO_UPDATES_LAUNCH_WAIT_MS
+ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:38:5-99
+	android:value
+		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:38:80-97
+	android:name
+		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:38:16-79
+meta-data#expo.modules.updates.EXPO_SDK_VERSION
+ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:39:5-93
+	android:value
+		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:39:69-91
+	android:name
+		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml:39:16-68
 uses-sdk
 INJECTED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml
@@ -148,6 +224,12 @@ MERGED from [com.facebook.flipper:flipper-network-plugin:0.54.0] C:\Users\Anthro
 MERGED from [com.facebook.flipper:flipper-network-plugin:0.54.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\4702e8cbe5c66b644ed2f56d7cf1ab9a\jetified-flipper-network-plugin-0.54.0\AndroidManifest.xml:11:5-13:41
 MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\7c077107cba6636db2ecf683d1903857\jetified-flipper-fresco-plugin-0.54.0\AndroidManifest.xml:11:5-13:41
 MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\7c077107cba6636db2ecf683d1903857\jetified-flipper-fresco-plugin-0.54.0\AndroidManifest.xml:11:5-13:41
+MERGED from [:react-native-gesture-handler] C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.63.3] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\c803ec0dd4d18c39e15a4a1a0faba9f7\jetified-react-native-0.63.3\AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.63.3] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\c803ec0dd4d18c39e15a4a1a0faba9f7\jetified-react-native-0.63.3\AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\20725fa20214e86eb8fa55394d5d409e\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
@@ -184,6 +266,8 @@ MERGED from [com.facebook.fresco:soloader:2.2.0] C:\Users\Anthropocology\.gradle
 MERGED from [com.facebook.fresco:soloader:2.2.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\2e384b8d1aa835bc6b6747445bc4e658\jetified-soloader-2.2.0\AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\3ff5f325f0418d9356e2ddf4c121b33c\jetified-soloader-0.9.0\AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\3ff5f325f0418d9356e2ddf4c121b33c\jetified-soloader-0.9.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\c9350c4470b6f4895016aaf418fed985\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\c9350c4470b6f4895016aaf418fed985\material-1.1.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\780dca39713ff2fcf4eadcaf494ac982\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\780dca39713ff2fcf4eadcaf494ac982\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\82e63553b4b022cfff1711ae9819aad4\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
@@ -192,38 +276,50 @@ MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Ant
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\89148e3dbb2482b98d2c6649d887f30f\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\2c4abb3c9f84da22a9da11e175a85c23\interpolator-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\2c4abb3c9f84da22a9da11e175a85c23\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\bfe66e5c1e3890ed194fe4c90f780fb5\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\bfe66e5c1e3890ed194fe4c90f780fb5\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\1fa276bd61947c3e74ed195b3ad0a13b\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\1fa276bd61947c3e74ed195b3ad0a13b\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\e3a2e867d331253c3dea79a8410594da\fragment-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\e3a2e867d331253c3dea79a8410594da\fragment-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\43d28a6cb6aa3ef105d8e111681e9af4\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\43d28a6cb6aa3ef105d8e111681e9af4\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\727f4567341fcf59ba6ec2fbb4290436\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\727f4567341fcf59ba6ec2fbb4290436\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\1aafd20561bc3ee9f58c28dfa8215062\viewpager-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\1aafd20561bc3ee9f58c28dfa8215062\viewpager-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\3a40d00373143d317b2bee08071df362\loader-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\3a40d00373143d317b2bee08071df362\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.0.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\1f30c507ad647a41e33ed33c8e0ba570\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.0.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\1f30c507ad647a41e33ed33c8e0ba570\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\a8ecbda6ffad5e6f54ae110042f6865e\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\a8ecbda6ffad5e6f54ae110042f6865e\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\41b8d659a9b5777956384975cf9ebd42\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\41b8d659a9b5777956384975cf9ebd42\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\c85e1f195321245fafe1a599b5dddf47\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\c85e1f195321245fafe1a599b5dddf47\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.customview:customview:1.0.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\da4859f2c8e5d53f282ea268af4c5fee\customview-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.customview:customview:1.0.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\da4859f2c8e5d53f282ea268af4c5fee\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\1296f14384128f2399538597cc1f5274\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\1296f14384128f2399538597cc1f5274\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\a8ecbda6ffad5e6f54ae110042f6865e\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\a8ecbda6ffad5e6f54ae110042f6865e\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.core:core:1.1.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\73530a2d0c1df4b3085807c82555ce12\core-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.core:core:1.1.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\73530a2d0c1df4b3085807c82555ce12\core-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\129d7c6539a600a7346451cc911530ca\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\129d7c6539a600a7346451cc911530ca\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\fa40148eab14a6d2386ba091992d3749\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\fa40148eab14a6d2386ba091992d3749\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\2ef7075f73d2e2de44abaa796f0222ce\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\2ef7075f73d2e2de44abaa796f0222ce\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\ed731ef0ae48e67de128afa89bfb34a2\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\ed731ef0ae48e67de128afa89bfb34a2\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\3e3f3d50d38e11decf1394c1c71b0fc7\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\3e3f3d50d38e11decf1394c1c71b0fc7\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\3e0dd008a853f1a70d3d0f68ab22c9b7\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\3e0dd008a853f1a70d3d0f68ab22c9b7\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\f52122426ed85128097908a2e58f6328\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\f52122426ed85128097908a2e58f6328\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\8b5e123a9c5293fd4e2ed3fcf992930f\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\8b5e123a9c5293fd4e2ed3fcf992930f\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\bf72a15a3ccfe7bc47129422d9cddb0c\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\bf72a15a3ccfe7bc47129422d9cddb0c\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\aaff256ac919a45448a380ca9a0003ca\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\aaff256ac919a45448a380ca9a0003ca\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\06bc4641de51b04d4df94808d6e05292\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\06bc4641de51b04d4df94808d6e05292\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\1b64911e987df0fea019408e241659d7\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\1b64911e987df0fea019408e241659d7\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\b7f3f626304196e508da96b58da55c51\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\b7f3f626304196e508da96b58da55c51\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\8459cf74267acbf7bf85dca1ef465d1f\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\8459cf74267acbf7bf85dca1ef465d1f\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [com.facebook.fresco:fbcore:2.2.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\93631a34b99ed001e2b0fad5d2f119cc\jetified-fbcore-2.2.0\AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:fbcore:2.2.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\93631a34b99ed001e2b0fad5d2f119cc\jetified-fbcore-2.2.0\AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:ui-common:2.2.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\570f8ba84fcb7e14932353951c08cc5e\jetified-ui-common-2.2.0\AndroidManifest.xml:5:5-7:41
@@ -236,10 +332,6 @@ INJECTED from C:\Users\Anthropocology\Documents\software-and-coding\projects\Awe
 	android:minSdkVersion
 		INJECTED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\debug\AndroidManifest.xml
-uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\debug\AndroidManifest.xml:5:5-77
-	android:name
-		ADDED from C:\Users\Anthropocology\Documents\software-and-coding\projects\AwesomeProject\android\app\src\debug\AndroidManifest.xml:5:22-75
 uses-permission#android.permission.ACCESS_WIFI_STATE
 ADDED from [com.facebook.flipper:flipper:0.54.0] C:\Users\Anthropocology\.gradle\caches\transforms-2\files-2.1\d202ba8bc8961450333bf473e6298c94\jetified-flipper-0.54.0\AndroidManifest.xml:16:5-76
 	android:name
